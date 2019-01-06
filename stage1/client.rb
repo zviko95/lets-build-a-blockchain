@@ -1,4 +1,4 @@
-require_relative 'zimcoin'
+require_relative 'haseebcoin'
 require 'faraday'
 
 URL = 'http://localhost'
